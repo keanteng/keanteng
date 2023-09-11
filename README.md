@@ -2,6 +2,7 @@
 
 - 🔭  I'm currently working on flood related projects such as flood risk modeling.
 - 📖 I'm learning with the help from [Kaggle](https://www.kaggle.com/)
+- 📦 Check out the first package I created: [BlueAutomata](https://github.com/keanteng/blueautomata)
 - 💬 Ask me about GitHub
 
 ### Tools & Languages 🪃
