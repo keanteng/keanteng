@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-- 🔭  I'm currently a final year student.
-- 📖 I'm learning with the help from [Kaggle](https://www.kaggle.com/)
+- 🔭  I'm currently an incoming Master student.
 - 📦 Check out the first package I created: [BlueAutomata](https://github.com/keanteng/blueautomata)
+- 🌐 Visit my website at my profile
 - 💬 Ask me about GitHub
 
 ### Tools & Languages 🪃
