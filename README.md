@@ -28,5 +28,8 @@
 </div>
 
 ### My Stats 🔥
-[![GitHub Streak](https://streak-stats.demolab.com/?user=keanteng)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keanteng&layout=compact&theme=default&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keanteng&show_icons=true&locale=en&layout=compact" alt="keanteng" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keanteng&show_icons=true&locale=en" alt="keanteng" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keanteng&" alt="keanteng" /></p>
