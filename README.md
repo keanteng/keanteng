@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- 🔭  I'm currently an incoming Master student.
+- 🔭  I'm a Data Scientist.
 - 📦 Check out the first package I created: [`BlueAutomata`](https://github.com/keanteng/blueautomata)
 - 🌐 Visit my website at my profile
 - 💬 Ask me about GitHub
